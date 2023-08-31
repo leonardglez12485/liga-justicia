@@ -11,4 +11,4 @@ Pueden hacer lo que quieran...
 Actualizado desde completamente desde GitHub
 
 ## Otro 
-Actualizando el readme con otra lienea 
+Actualizando el readme con otra linea pero desde GitHub
